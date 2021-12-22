@@ -49,7 +49,11 @@
 
 <script>
 import data from '~/assets/data.json'
+import ShapeItem from '~/components/ShapeItem.vue'
 export default {
+  components:{
+    ShapeItem,
+  },
   data() {
     return {
       items: data,
