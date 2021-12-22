@@ -1,0 +1,67 @@
+[
+    {
+        "color": "blue",
+        "shape": "circle"
+    },
+    {
+        "color": "red",
+        "shape": "rectangle"
+    },
+    {
+        "color": "blue",
+        "shape": "square"
+    },
+    {
+        "color": "blue",
+        "shape": "circle"
+    },
+    {
+        "color": "blue",
+        "shape": "circle"
+    },
+    {
+        "color": "green",
+        "shape": "circle"
+    },
+    {
+        "color": "green",
+        "shape": "square"
+    },
+    {
+        "color": "red",
+        "shape": "circle"
+    },
+    {
+        "color": "blue",
+        "shape": "oval"
+    },
+    {
+        "color": "red",
+        "shape": "triangle"
+    },
+    {
+        "color": "green",
+        "shape": "oval"
+    },
+    {
+        "color": "yellow",
+        "shape": "oval"
+    },
+    {
+        "color": "yellow",
+        "shape": "square"
+    },
+    {
+        "color": "yellow",
+        "shape": "triangle"
+    },
+    {
+        "color": "blue",
+        "shape": "square"
+    },
+    {
+        "color": "green",
+        "shape": "triangle"
+    }
+    
+]
